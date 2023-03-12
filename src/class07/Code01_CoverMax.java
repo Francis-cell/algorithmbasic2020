@@ -25,7 +25,7 @@ public class Code01_CoverMax {
 		}
 		return cover;
 	}
-
+	
 	public static int maxCover2(int[][] m) {
 		Line[] lines = new Line[m.length];
 		for (int i = 0; i < m.length; i++) {

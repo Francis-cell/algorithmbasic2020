@@ -108,7 +108,6 @@ public class Code05_TreeMaxWidth {
 			}
 		}
 		System.out.println("finish!");
-
 	}
 
 }

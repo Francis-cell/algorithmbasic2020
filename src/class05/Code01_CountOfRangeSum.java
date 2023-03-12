@@ -53,7 +53,7 @@ public class Code01_CountOfRangeSum {
 		}
 		while (p2 <= R) {
 			help[i++] = arr[p2++];
-		}
+		}																										
 		for (i = 0; i < help.length; i++) {
 			arr[L + i] = help[i];
 		}
